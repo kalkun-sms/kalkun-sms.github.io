@@ -4,7 +4,7 @@
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
 <?php 
 $url=basename($_SERVER['PHP_SELF'], ".php");
-$valid=array("demo", "screenshot", "about", "support", "contribute");
+$valid=array("demo", "screenshots", "about", "support", "contribute");
 if(in_array($url, $valid)) $title = ucfirst($url);
 else $title = "Open Source Web based SMS Management";
 ?>
@@ -19,7 +19,7 @@ else $title = "Open Source Web based SMS Management";
 		<a href="./" title="Home"><img src="media/images/logo.png"></a>
 		<div id="menu">
 		<a href="demo.php">Demo</a>
-		<a href="screenshot.php">Screenshots</a>
+		<a href="screenshots.php">Screenshots</a>
 		<a href="support.php">Support</a>
 		<a href="contribute.php">Contribute</a>
 		<a href="about.php">About</a>

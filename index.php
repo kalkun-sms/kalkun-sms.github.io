@@ -24,7 +24,7 @@ $size_tar_zip = /*filesize($file_path.$file_zip);*/ '1.2MB';
 		</div>
 
 		<div id="main">
-		<a href="screenshot.php" title="More Screenshots"><img id="screen" src="media/images/2022-03/02-dashboard.png" /></a>
+		<a href="screenshots.php" title="More Screenshots"><img id="screen" src="media/images/2022-03/02-dashboard.png" /></a>
 
 		<div id="news" style="display: none;">
 		<h3>News</h3>
