@@ -10,8 +10,9 @@
 			<li><a href="https://kalkun.sourceforge.io/demo-devel">Snapshot of the development branch as of 2022-03-15.</a></li>
 		</ul>
 
-		<p>Then login with username: <code>kalkun</code>, password <code>kalkun</code> (both without quotes).</p>
-		<p><strong>Please NOTE</strong> that you can do anything on the demo, but please <strong>DO NOT</strong> change the <i>kalkun</i> user password.</p>
+		<p>Then login with username: <code>kalkun</code>, password <code>kalkun</code>.</p>
+
+		<p>If you are a hacker and find any security issue, please <a href="https://github.com/kalkun-sms/Kalkun/issues">report back</a>. Besides that, sending a <a href="https://github.com/kalkun-sms/Kalkun/pulls">pull request on gihub</a> with fixes is warmly welcome. This is also the purpose of having such a demo page.</p>
 
 		<!--p>All data is cleaned every midday and midnight.</p-->
 
@@ -20,7 +21,7 @@
 
 		<div id="sidebar">
 		<h3>About the demo</h3>
-		<p>The demo is not bound to any device neither to any SMS service provider. So no message is sent-out, and no messages will come in. This demo is intended to try the user interface of Kalkun. You may test it and report ay ny bugs you find, or try it out before you install it.</p>
+		<p>The demo is not bound to any device neither to any SMS service provider. So no message is sent-out, and no messages will come in. You may test it and report any bugs you find, or try it out before you install it.</p>
 		</div>
 
 		<div style="clear: both">&nbsp;</div>
