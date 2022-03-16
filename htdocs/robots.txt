@@ -1,0 +1,4 @@
+Sitemap: https://kalkun.sourceforge.io/sitemap.xml
+
+User-agent: *
+Disallow: /demo-*
