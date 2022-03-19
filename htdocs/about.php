@@ -82,6 +82,7 @@ Any other computer on your network (or even on the internet, if you need so), ca
 <li>Keyboard shortcuts</li>
 <li>API access</li>
 <li>Localization</li>
+<li>SMS Bomber: send bomb/spam message</li>
 </ul>
 <p>See <a href="https://github.com/tenzap/Kalkun/wiki#features">features in detail</a> on the wiki.</p>
 
@@ -109,12 +110,9 @@ Any ideas to improve this features? feel free to contact us.</p>
 <li>SMS to XMPP</li>
 <li>SOAP Api</li>
 <li>STOP manager: manage incoming SMS containing word 'STOP'</li>
+<li>Whitelist number</li>
 <li>XMLRPC Api</li>
 <li>How to write a Plugin</li>
-
-<li>Blacklist Number, block message from specific number</li>
-<li>Server Alert, alert you whenever your service (eq: Web server, Mail server) is down</li>
-<li>SMS Bomber, send bomb/spam message</li>
 </ul>
 <p>See <a href="https://github.com/tenzap/Kalkun/wiki#plugins">plugins in detail</a> on the wiki.</p>
 </div>
