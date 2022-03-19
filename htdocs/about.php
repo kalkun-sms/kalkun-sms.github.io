@@ -53,7 +53,7 @@ $(document).ready(function(){
 
 <div id="section-1">
 <h3>What is Kalkun?</h3>
-<p>Kalkun is open source web-based SMS (<i>Short Message Service</i>) manager.</p>
+<p>Kalkun is an open source web-based SMS (<i>Short Message Service</i>) manager.</p>
 <p>It uses <a href="https://wammu.eu/smsd/">Gammu SMSD</a> as SMS gateway engine to deliver and retrieve messages from your phone/modem.
 Kalkun and gammu are two separate software that work together. Once Gammu is set-up on your system you can install Kalkun beside it.</p>
 <p>Kalkun architecture:</p>

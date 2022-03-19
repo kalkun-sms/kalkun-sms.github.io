@@ -23,7 +23,7 @@ $size_tar_zip = /*filesize($file_path.$file_zip);*/ '1.2MB';
 		<div style="display:table">
 		<div style="display:table-cell">
 			<h3 >Manage your SMS easily</h3>
-			<p>Kalkun is open source web-based SMS (<i>Short Message Service</i>) manager.</p>
+			<p>Kalkun is an open source web-based SMS (<i>Short Message Service</i>) manager.</p>
 			<p>It uses <a href="https://wammu.eu/smsd/">Gammu SMSD</a> as SMS gateway engine to deliver and retrieve messages from your phone/modem.</p>
 			<p><a href="about.php">Learn more about Kalkun...</a></p>
 		</div>
