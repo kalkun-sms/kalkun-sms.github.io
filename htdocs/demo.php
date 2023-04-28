@@ -7,9 +7,6 @@
 		<h3>Demo</h3>
 		<p>To see how Kalkun looks like on a real system, you can try the demo:</p>
 		<ul>
-			<li><a href="https://kalkun.sourceforge.io/demo-v0.8.0-beta-1">version 0.8.0-beta-1</a>.</li>
-			<li><a href="https://kalkun.sourceforge.io/demo-v0.8.0-beta-2">version 0.8.0-beta-2</a>.</li>
-			<li><a href="https://kalkun.sourceforge.io/demo-v0.8.0-rc-1">version 0.8.0-rc-1</a>.</li>
 			<li><a href="https://kalkun.sourceforge.io/demo-v0.8.0">version 0.8.0</a>.</li>
 			<li><a href="https://kalkun.sourceforge.io/demo-devel">Snapshot of the development branch as of 2022-11-11</a>.</li>
 		</ul>
