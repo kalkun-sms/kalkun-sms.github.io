@@ -8,7 +8,7 @@
 		<p>To see how Kalkun looks like on a real system, you can try the demo:</p>
 		<ul>
 			<li><a href="https://kalkun.sourceforge.io/demo-v0.8.0">version 0.8.0</a>.</li>
-			<li><a href="https://kalkun.sourceforge.io/demo-devel">Snapshot of the development branch as of 2022-11-11</a>.</li>
+			<li><a href="https://kalkun.sourceforge.io/demo-devel">Snapshot of the development branch as of 2023-04-28</a>.</li>
 		</ul>
 
 		<p>Then login with username: <code>kalkun</code>, password <code>kalkun</code>.</p>
