@@ -64,7 +64,7 @@ Kalkun and gammu are two separate software that work together. Once Gammu is set
 Any other computer on your network (or even on the internet, if you need so), can access it with a web browser to use it. Another advantage is you don't need to worry about phone memory capacity, because your messages are stored in the database.</p>
 
 <h3>License</h3>
-<p>Kalkun is released under <a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU General Public License v3.0 or later</a>.</p>
+<p>Kalkun is released under <a href="https://www.gnu.org/licenses/gpl-2.0.html">GNU General Public License v2.0 or later</a>.</p>
 </div>
 
 <div id="section-2" class="hidden">
