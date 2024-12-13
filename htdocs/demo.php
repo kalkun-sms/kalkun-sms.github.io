@@ -7,7 +7,9 @@
 		<h3>Demo</h3>
 		<p>To see how Kalkun looks like on a real system, you can try the demo:</p>
 		<ul>
+			<li><a href="https://kalkun.sourceforge.io/demo-0.8.3-beta-1">version 0.8.3-beta-1</a>.</li>
 			<li><a href="https://kalkun.sourceforge.io/demo-devel">Snapshot of the development branch as of 2024-11-27</a>.</li>
+			<li><a href="https://kalkun.sourceforge.io/demo-0.8.3-rc-1">version 0.8.3-rc-1</a>.</li>
 		</ul>
 
 		<p>Then login with username: <code>kalkun</code>, password <code>kalkun</code>.</p>
